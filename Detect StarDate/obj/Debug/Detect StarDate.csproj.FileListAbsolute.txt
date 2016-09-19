@@ -1,0 +1,18 @@
+C:\Users\Sid\Documents\Visual Studio 2015\Projects\Detect StarDate\Detect StarDate\bin\Debug\Detect StarDate.exe
+C:\Users\Sid\Documents\Visual Studio 2015\Projects\Detect StarDate\Detect StarDate\bin\Debug\Detect StarDate.pdb
+C:\Users\Sid\Documents\Visual Studio 2015\Projects\Detect StarDate\Detect StarDate\obj\Debug\Detect StarDate.csprojResolveAssemblyReference.cache
+C:\Users\Sid\Documents\Visual Studio 2015\Projects\Detect StarDate\Detect StarDate\obj\Debug\Detect_StarDate.Properties.Resources.resources
+C:\Users\Sid\Documents\Visual Studio 2015\Projects\Detect StarDate\Detect StarDate\obj\Debug\Detect StarDate.csproj.GenerateResource.Cache
+C:\Users\Sid\Documents\Visual Studio 2015\Projects\Detect StarDate\Detect StarDate\obj\Debug\Detect StarDate.exe
+C:\Users\Sid\Documents\Visual Studio 2015\Projects\Detect StarDate\Detect StarDate\obj\Debug\Detect StarDate.pdb
+C:\Users\Sid\Documents\Visual Studio 2015\Projects\Detect StarDate\Detect StarDate\obj\Debug\Detect_StarDate.StandartForm.resources
+C:\Users\Sid\Documents\Visual Studio 2015\Projects\Detect StarDate\Detect StarDate\obj\Debug\Detect_StarDate.Star_Trek_Form.resources
+C:\Users\Sid\Documents\Visual Studio 2015\Projects\Date\Detect StarDate\Detect StarDate\obj\Debug\Detect StarDate.exe
+C:\Users\Sid\Documents\Visual Studio 2015\Projects\Date\Detect StarDate\Detect StarDate\obj\Debug\Detect StarDate.pdb
+C:\Users\Sid\Documents\Visual Studio 2015\Projects\Date\Detect StarDate\Detect StarDate\bin\Debug\Detect StarDate.exe
+C:\Users\Sid\Documents\Visual Studio 2015\Projects\Date\Detect StarDate\Detect StarDate\bin\Debug\Detect StarDate.pdb
+C:\Users\Sid\Documents\Visual Studio 2015\Projects\Date\Detect StarDate\Detect StarDate\obj\Debug\Detect StarDate.csprojResolveAssemblyReference.cache
+C:\Users\Sid\Documents\Visual Studio 2015\Projects\Date\Detect StarDate\Detect StarDate\obj\Debug\Detect_StarDate.StandartForm.resources
+C:\Users\Sid\Documents\Visual Studio 2015\Projects\Date\Detect StarDate\Detect StarDate\obj\Debug\Detect_StarDate.Properties.Resources.resources
+C:\Users\Sid\Documents\Visual Studio 2015\Projects\Date\Detect StarDate\Detect StarDate\obj\Debug\Detect_StarDate.Star_Trek_Form.resources
+C:\Users\Sid\Documents\Visual Studio 2015\Projects\Date\Detect StarDate\Detect StarDate\obj\Debug\Detect StarDate.csproj.GenerateResource.Cache
